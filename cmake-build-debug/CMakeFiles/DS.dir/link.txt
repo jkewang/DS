@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DS.dir/main.cpp.o CMakeFiles/DS.dir/BinaryTree.cpp.o CMakeFiles/DS.dir/BinaryTreeNode.cpp.o  -o DS 
